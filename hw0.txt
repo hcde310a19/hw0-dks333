@@ -1,3 +1,15 @@
 # Description of your program (part 7)
 
+The objective of this program is to count the number of words in a document.
+
+First, import entire text from the document into the program. Then, separate texts by spaces and store them in an array. Finally, count the number of elements in this array by using. The resulting number equals to the number of words in a document.
+Don't forget to save the program.
+
 # Reflection on writing your program (part 8)
+
+The previous exercise was fairly easy. Writing instructions in English is explicitly difficult because of my weak
+technical writing skills. What was satisfying about writing instructions was that I was able to have a strong
+understanding of what this program was designed for. One thing I want to get out from this course is to be able to
+create data visualization.
+
+
